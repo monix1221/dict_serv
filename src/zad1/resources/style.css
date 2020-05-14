@@ -1,0 +1,19 @@
+.root {
+    -fx-padding: 10;
+    -fx-border-width: 3;
+    -fx-border-radius: 2;
+    -fx-border-color: #6deae1;
+    -fx-background-color: #2392b6;
+}
+
+.combo-box {
+    -fx-background-color: #b5f6f6;
+    -fx-border-color: #6879d4;
+}
+
+.button {
+    -fx-background-color: aqua;
+    -fx-border-color: #162474;
+    -fx-border-width: 3;
+    -fx-border-radius: 2;
+}
